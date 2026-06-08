@@ -59,7 +59,7 @@ nav a.active{
     border-bottom: 3px solid #b74b4b;
 }
 
-@media(max-width:400px){
+@media(max-width:200px){
     nav{
         position: absolute;
         display: none;
